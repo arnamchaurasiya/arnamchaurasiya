@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/arnamchaurasiya" target="blank"><img src="https://img.shields.io/twitter/follow/arnamchaurasiya?logo=twitter&style=for-the-badge" alt="arnamchaurasiya" /></a> </p>
 
-- 🔭 I’m currently working on [Dynamic UI Editor](https://github.com/arnamchaurasiya/Ikarus3d_Dynamic_UI_Editor)
+- 🔭 I’m currently working on [Java FSD Training](https://github.com/arnamchaurasiya/Mphasis-Training-Java-FSD.git)
 
-- 🌱 I’m currently learning **Redux Toolkit, Three.js, Next.js, Web3.js, and Machine Learning Model Deployment.**
+- 🌱 I’m currently learning **Advanced Java, Spring Boot, Hibernate.**
 
 - 👯 I’m looking to collaborate on [Multithreaded-Based-ETL-Sysytem](https://github.com/arnamchaurasiya/Multithreaded-Based-ETL-Sysytem)
 
